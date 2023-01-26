@@ -1,0 +1,5 @@
+.venv/
+.idea/
+main.py
+.env
+Useful_comments.csv

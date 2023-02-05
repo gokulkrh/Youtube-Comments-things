@@ -4,4 +4,4 @@ main.py
 .env
 Useful_comments.csv
 __pycache__/
-.pkl
+*.pkl
